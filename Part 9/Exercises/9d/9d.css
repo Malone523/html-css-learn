@@ -1,0 +1,18 @@
+.title {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p {
+    color: grey;
+    size: 12px;
+}
+
+div {
+    background-color: rgb(40, 40, 40);
+    width: 350px;
+    padding: 15px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}

@@ -1,0 +1,26 @@
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    margin: 0px;
+}
+.title {
+    font-size: 18px;
+    font-weight: bold;
+}
+.tagline {
+    color: grey;
+    margin-bottom: 16px;
+}
+.description {
+    width: 270px;
+    margin-bottom: 16px;
+}
+button {
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 6px;
+    padding: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}

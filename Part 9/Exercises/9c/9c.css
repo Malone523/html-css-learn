@@ -1,0 +1,12 @@
+div {
+    border-width: 1px;
+    border: solid;
+    border-color: grey;
+    padding-left: 10px;
+    padding-bottom: 16px;
+    width: 300px;
+}
+
+p {
+    color: black;
+}

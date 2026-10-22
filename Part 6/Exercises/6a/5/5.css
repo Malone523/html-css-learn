@@ -1,0 +1,33 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0px;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+button {
+    color: white;
+    background-color: rgb(82, 82, 238);
+    border: none;
+    border-radius: 18px;
+    padding: 6px;
+    padding-right: 14px;
+    padding-left: 14px;
+    cursor: pointer;
+}
+
+
+.new {
+    color: red;
+}
+
+.title {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.tagline {
+    font-size: 26px;
+    font-weight: bold;
+}

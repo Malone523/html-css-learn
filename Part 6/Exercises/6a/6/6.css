@@ -1,0 +1,17 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-size: 14px;
+    margin: 6px;
+}
+
+.price {
+    color: black;
+    font-size: 24px;
+}
+.green-text {
+    color: green;
+}
+.red-text {
+    color: red;
+}
