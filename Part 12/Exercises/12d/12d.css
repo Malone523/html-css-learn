@@ -1,0 +1,15 @@
+.grid {
+    display: flex;
+    flex-direction: row;
+    border: solid;
+    border-color: grey;
+    border-width: 1px;
+    justify-content: space-between;
+    height: 50px;
+    align-items: center;
+}
+
+.item {
+    background-color: lightpink;
+    width: 50px;
+}

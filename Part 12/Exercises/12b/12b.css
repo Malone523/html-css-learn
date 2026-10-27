@@ -1,0 +1,21 @@
+.grid {
+    display: flex;
+    flex-direction: row;
+}
+
+.lightblue {
+    background-color: lightblue;
+}
+
+.item1 {
+    width: 50px;
+}
+
+.item2 {
+    background-color: lightpink;
+    flex: 1;
+}
+
+.item3 {
+    width: 75px;
+}
