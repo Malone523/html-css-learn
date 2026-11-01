@@ -1,0 +1,48 @@
+p {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 4px;
+    color: grey;
+    margin-left: 10px;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.name {
+    font-weight: bold;
+    color: black;
+}
+
+.profile {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+button {
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.outer-container {
+    width: 300px;
+}
+
+.text {
+    width: 200px;
+}
